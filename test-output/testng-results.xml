@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3389" started-at="2022-01-23T12:46:02Z" finished-at="2022-01-23T12:46:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3389" started-at="2022-01-23T12:46:02Z" finished-at="2022-01-23T12:46:06Z">
+      <class name="jenkins_browser_test.browser">
+        <test-method status="PASS" signature="invokeTest()[pri:0, instance:jenkins_browser_test.browser@333291e3]" name="invokeTest" duration-ms="3360" started-at="2022-01-23T12:46:03Z" finished-at="2022-01-23T12:46:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeTest -->
+      </class> <!-- jenkins_browser_test.browser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
